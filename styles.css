@@ -55,9 +55,6 @@ form {
 .logo {
     width: 25rem;
     height: auto;
-    -webkit-animation:spin 3s linear infinite;
-    -moz-animation:spin 3s linear infinite;
-    animation:spin 3s linear infinite;
 }
 
 .ham {
